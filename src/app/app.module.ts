@@ -10,6 +10,7 @@ import { ContentComponent } from './content/content.component';
 import { FooterComponent } from './footer/footer.component';
 import { CadastroClientesComponent } from './cadastro-clientes/cadastro-clientes.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { HomeLogadoComponent } from './home-logado/home-logado.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { ReactiveFormsModule } from '@angular/forms';
     HeaderComponent,
     ContentComponent,
     FooterComponent,
-    CadastroClientesComponent
+    CadastroClientesComponent,
+    HomeLogadoComponent
   ],
   imports: [
     BrowserModule,
