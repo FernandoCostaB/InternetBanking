@@ -3,7 +3,7 @@
     height: 50vh;
     background: #000;
     color: rgba(255, 255, 255, 0.6) !important;
-    padding: 50px;
+    padding: 30px;
 
     }
     .topicos h6 {
@@ -14,9 +14,11 @@
     line-height: 3;
     }
     .rodape {
+    padding: 5px;
     background: #ddd;
-    height: 5vh;
+    height: 9vh;
+    width: 100vw;
     }
     .rodape p {
-    padding-top: 6px;
+    padding-top: 15px;
     }
